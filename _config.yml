@@ -21,7 +21,7 @@
 title: Magnus Dalsgaard Larsen
 email: magnusdalsgaardlarsen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is a work-in-progress
+  Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bluemango10.github.io/portfolio/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -30,7 +30,7 @@ github_username:  BlueMango10
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
