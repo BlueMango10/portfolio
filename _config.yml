@@ -27,9 +27,16 @@ url: "https://bluemango10.github.io/portfolio/" # the base hostname & protocol f
 # twitter_username: jekyllrb
 github_username:  BlueMango10
 
+links:
+  github: https://github.com/BlueMango10
+  linkedin: https://www.linkedin.com/in/magnus-dalsgaard-larsen-784560211
+  itch: https://bluemango.itch.io/
+
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
+  - jekyll-remote-theme
   # - jekyll-feed
 
 # Exclude from processing.
